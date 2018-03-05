@@ -1,0 +1,17 @@
+Documentacion de que tuvimos que hacer para implementar los codigos..
+
+A traves de ejemplos probar con grafos simples y ponderados, y probar si funcion o no con grafos dirigidos... 
+si no funciona, advertir al usuario que no se puede.
+
+Agregar etiquetas a los nodos.
+
+Crear grafos de diferentes tamaños, muchas instancias, muchas veces... 
+
+googlear 
+
+-yerrorbars
+-candlestick
+
+fit ajuste de curvas en gnuplot
+
+complejidad teorica del ford-fulkerson.
