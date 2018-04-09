@@ -1,0 +1,20 @@
+Supongamos vertices. Densidad de vecindad sin el grafo X 
+
+densidad = (m)/(m)max = 2m/n(n-1)
+
+
+Ingresar un Grafo.
+
+avgdist 
+clustcoef
+
+-Grafica de Floyd-Warshall
+S-Formula de cota superior.
+-Explicación y grafica de F-W
+
+
+Dibujar grafo de florecita.
+avgdist(G)
+clustercoef(G)
+formulacion matematica de la cota superior
+
